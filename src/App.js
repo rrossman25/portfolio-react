@@ -11,6 +11,7 @@ function App() {
           <a href = '#about' className = 'nav-link'>About</a>
           <a href = '#projects' className = 'nav-link'>Work</a>
           <a href = '#contact' className = 'nav-link'>Contact</a>
+          <a href = 'http://online.fliphtml5.com/whqtm/eiyq/' className = 'nav-link' rel = 'noopener noreferrer' target = '_blank'>Resume</a>
         </nav>
       </div>
 
