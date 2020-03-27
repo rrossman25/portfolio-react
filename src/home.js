@@ -18,7 +18,7 @@ function Home() {
         <section id = 'about'>
           <h2>About Me</h2>
           <div id = 'about-div'>
-            <img id = 'about-pic' src = 'https://bit.ly/2tfPjCi' alt = 'Me'/>
+            <img id = 'about-pic' src = 'https://media-exp1.licdn.com/dms/image/C5603AQHdcujCqkn7Hg/profile-displayphoto-shrink_200_200/0?e=1590624000&v=beta&t=V1RSbm1QXzEiP4FtaHTfqqorbdmIuSk_4Wuwe11HmOc' alt = 'Me'/>
             <div id = 'info-div'>
               <p className = 'about-information'>I began my career in film and business, and have always enjoyed problem solving and creating.</p>
               <p className = 'about-information'>My first introduction to code was in a programming course in college, and I loved it so much that I began to teach myself to code.</p>
